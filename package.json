@@ -1,0 +1,25 @@
+{
+  "name": "rick-morty-services-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "personajes":"node index.js personajes",
+    "episodios":"node index.js episodios"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorza12/Rick-Morty-Services-Data.git"
+  },
+  "keywords": [],
+  "author": "juan.lorza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorza12/Rick-Morty-Services-Data/issues"
+  },
+  "homepage": "https://github.com/lorza12/Rick-Morty-Services-Data#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
